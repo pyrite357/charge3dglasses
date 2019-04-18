@@ -52,5 +52,6 @@ Thanks to Victoria Kelley for helping to build the 3D Glasses charging station.
 I woud love any and all feedback! Especially on making this safer and more secure. The thought that electrical devices in my home are automatically controlled based on data from the Internet is scary, and even insane to some. However, I think with the right safe guards in place, this can be done right.
 
 ## Pictures:
-    Coming soon ...
-   
+
+Here is the glasses case I bought on ebay for $28 (USD)
+<img src="/../images/images/glassescase.jpg" width="200" height="200" alt="Glasses Display/Protective Case" />
