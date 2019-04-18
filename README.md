@@ -63,4 +63,7 @@ The Sonoff Basic R2 was bought on Amazon for $6.99 (USD)\
 <img src="/../images/sonoff.jpg" width="300" height="300" />
 
 My home theatre room prior to starting this project\
-<img src="/../images/livroombeforeshelf.jpg" width="800" />
+<img src="/../images/livroombeforeshelf.jpg" width="900" />
+
+I built and painted a shelf (apparently to Lowes, black means brown, oh well)\
+<img src="/../images/paintshelf.jpg" />
