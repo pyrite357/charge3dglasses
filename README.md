@@ -54,4 +54,4 @@ I woud love any and all feedback! Especially on making this safer and more secur
 ## Pictures:
 
 Here is the glasses case I bought on ebay for $28 (USD)
-<img src="/../images/images/glassescase.jpg" width="200" height="200" alt="Glasses Display/Protective Case" />
+<img src="/../images/glassescase.jpg" width="200" height="200" alt="Glasses Display/Protective Case" />
