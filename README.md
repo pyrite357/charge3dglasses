@@ -61,3 +61,6 @@ I bought 2 of these A/C powered 6-port USB hubs for about $6.50 (USD) ea
 
 The Sonoff Basic R2 was bought on Amazon for $6.99 (USD)\
 <img src="/../images/sonoff.jpg" width="300" height="300" />
+
+My home theatre room prior to starting this project\
+<img src="/../images/livroombeforeshelf.jpg" width="800" />
