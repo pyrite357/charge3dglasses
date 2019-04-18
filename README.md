@@ -29,13 +29,13 @@ Thanks to Victoria Kelley for helping to build the 3D Glasses charging station.
    1). pip install python-dateutil requests\
    2). copy this script to your home directory in Linux\
    3). Add the IP Address of your Sonoff Basic to the ip_of_sonoff var below\
-   4). Add the username and password of your Sonoff that was flashed with [Tasmota Firmware](https://github.com/arendst/Sonoff-Tasmota)
+   4). Add the username and password of your Sonoff that was flashed with [Tasmota Firmware](https://github.com/arendst/Sonoff-Tasmota)\
    5). Make this script executable by running: chmod +x ~/charge3dglasses.py\
    5). Add the following line to your crontab so that it runs every 5 min
 ```
         */5 * * * * /home/yourusername/charge3dglasses.py
 ```
-   6). sudo gem install facebook-cli\
+   6). sudo gem install [facebook-cli](https://github.com/specious/facebook-cli)\
    7). facebook-cli config --appid=<your_app_id> --appsecret=<your_app_secret>\
    7). facebook-cli login\
    8). Add the following line to your crontab to fetch Facebook events every 15 min
@@ -48,10 +48,9 @@ Thanks to Victoria Kelley for helping to build the 3D Glasses charging station.
   * Verify power is on/off after sending commands to turn the Sonoff on/off.
   * Perhaps just use the Facebook Graph API directly from the Python script.
 
-[test test](/arendst/Sonoff-Tasmota)
-
 ## Feedback
 I woud love any and all feedback! Especially on making this safer and more secure. The thought that electrical devices in my home are automatically controlled based on data from the Internet is scary, and even insane to some. However, I think with the right safe guards in place, this can be done right.
 
 ## Pictures:
     Coming soon ...
+   
