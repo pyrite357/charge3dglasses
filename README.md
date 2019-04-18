@@ -53,5 +53,11 @@ I woud love any and all feedback! Especially on making this safer and more secur
 
 ## Pictures:
 
-Here is the glasses case I bought on ebay for $28 (USD)
-<img src="/../images/glassescase.jpg" width="200" height="200" alt="Glasses Display/Protective Case" />
+Here is the glasses case I bought on ebay for $19.99 (USD)\
+<img src="/../images/glassescase.jpg" width="300" height="300" />
+
+I bought 2 of these A/C powered 6-port USB hubs for about $6.50 (USD) ea
+<img src="/../images/usbhub.jpg" />
+
+The Sonoff Basic R2 was bought on Amazon for $6.99 (USD)\
+<img src="/../images/sonoff.jpg" width="300" height="300" />
