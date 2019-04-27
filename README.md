@@ -62,11 +62,44 @@ I bought 2 of these A/C powered 6-port USB hubs for about $6.50 (USD) ea
 The Sonoff Basic R2 was bought on Amazon for $6.99 (USD)\
 <img src="/../images/sonoff.jpg" width="300" height="300" />
 
+Soldered these 4 male header pins on\
+<img src="/../images/sonoff1.jpg" />
+
+Bought this USB to TTL Adapter on Amazon for $12.49 (USD)\
+<img src="/../images/sonoff2.jpg" />
+
+Hooked the TTL adapter up to the Sonoff's header pins\
+<img src="/../images/sonoff3.jpg" />
+
+Flashing the Sonoff with [Tasmota Firmware](https://github.com/arendst/Sonoff-Tasmota) using esptool\
+<img src="/../images/sonoff4.png" />
+
+Sonoff is ready to go\
+<img src="/../images/sonoff5.jpg" />
+
 My home theatre room prior to starting this project\
-<img src="/../images/livroombeforeshelf.jpg" width="900" />
+<img src="/../images/livroombeforeshelf.jpg" />
 
 I built and painted a shelf (apparently to Lowes, black means brown, oh well)\
 <img src="/../images/paintshelf.jpg" />
+
+Construction begins\
+<img src="/../images/shelf1.jpg" />
+
+Construction continues\
+<img src="/../images/shelf2.jpg" />
+
+Side view with USB hubs powered on\
+<img src="/../images/shelf3.jpg" />
+
+Built a side piece using the case backing\
+<img src="/../images/shelf4.jpg" />
+
+Test powering on the glasses\
+<img src="/../images/shelf5.jpg" />
+
+What it all looks like when finished\
+<img src="/../images/shelf6.jpg" />
 
 ## Video:
 
