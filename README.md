@@ -67,3 +67,7 @@ My home theatre room prior to starting this project\
 
 I built and painted a shelf (apparently to Lowes, black means brown, oh well)\
 <img src="/../images/paintshelf.jpg" />
+
+## Video:
+
+[![Video Preview of Charging Station in action](https://img.youtube.com/vi/3aGKrcRz-d0/0.jpg)](https://www.youtube.com/watch?v=3aGKrcRz-d0)
