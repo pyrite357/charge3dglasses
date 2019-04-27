@@ -71,7 +71,7 @@ Bought this USB to TTL Adapter on Amazon for $12.49 (USD)\
 Hooked the TTL adapter up to the Sonoff's header pins\
 <img src="/../images/sonoff3.jpg" />
 
-Flashing the Sonoff with [Tasmota Firmware](https://github.com/arendst/Sonoff-Tasmota) using esptool\
+Flashing the Sonoff with [Tasmota Firmware](https://github.com/arendst/Sonoff-Tasmota) using [esptool.py](https://github.com/espressif/esptoolesptool)\
 <img src="/../images/sonoff4.png" />
 
 Sonoff is ready to go\
