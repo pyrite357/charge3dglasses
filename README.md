@@ -14,7 +14,7 @@ event starts and then power it off after the event starts.
 
 This helps the owner of the home theatre who would sometimes in the
 past forget to charge all of the 3D Glasses prior to having a movie party.
-This is an example of true home automation using IoT hardware.
+This is an example of true home automation using IoT hardware. Another purpose for this project was to build a display case to keep the glasses off the floor and out of reach from children and pets, as some of the glasses were $40/ea. This case keeps them protected, and they can be charged all at once.
 
 Although the author has been programming since the mid 90's, this was
 his very first Python script ever written from scratch. Please forgive
