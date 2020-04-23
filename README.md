@@ -51,6 +51,8 @@ Thanks to Victoria Kelley for helping to build the 3D Glasses charging station.
 ## Feedback
 I woud love any and all feedback! Especially on making this safer and more secure. The thought that electrical devices in my home are automatically controlled based on data from the Internet is scary, and even insane to some. However, I think with the right safe guards in place, this can be done right.
 
+**UPDATE**: some have asked why I didn't just use a Smartplug. The reason is, I wanted local/LAN only control. The sonoff with Tasmota firmware allows for local control (no cloud/internet required) to operate.
+
 ## Pictures:
 
 Here is the glasses case I bought on ebay for $19.99 (USD)\
